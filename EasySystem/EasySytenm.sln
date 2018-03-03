@@ -1,0 +1,114 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+<<<<<<< HEAD
+VisualStudioVersion = 15.0.27130.2020
+=======
+VisualStudioVersion = 15.0.26430.15
+>>>>>>> 使用文本模板根据数据库表自动生产对应类
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BLL", "BLL", "{D8AE34C2-5EB0-48AB-9877-C928005CAD01}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{0211DD1D-675B-47AC-B70B-925D1F6E1036}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{88732C41-4DDA-4EA0-BC27-D2A57EC26CCC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{A0B2FF52-26FD-4602-B60C-557EFDF32465}"
+EndProject
+<<<<<<< HEAD
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasySystem.BLL", "EasySystem.BLL\EasySystem.BLL.csproj", "{4E569CAA-F6BA-4BDF-9368-EE35E66050CF}"
+EndProject
+=======
+>>>>>>> 使用文本模板根据数据库表自动生产对应类
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasySystem.BLLContainer", "EasySystem.BLLContainer\EasySystem.BLLContainer.csproj", "{E3A92804-5ECB-4CDC-AAB6-69EA0158D9F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasySystem.IBLL", "EasySystem.IBLL\EasySystem.IBLL.csproj", "{5EDA3211-785A-408A-A645-86E7A4B8D8B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasySystem.DAL", "EasySystem.DAL\EasySystem.DAL.csproj", "{FBB7A356-FB67-4513-9B62-5A518BEC9E1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasySystem.DALContainer", "EasySystem.DALContainer\EasySystem.DALContainer.csproj", "{F7509D2B-28D4-402F-9897-9A7FA6611049}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasySystem.IDAL", "EasySystem.IDAL\EasySystem.IDAL.csproj", "{8A2A7612-C4D1-454B-A579-6E1F7FFCDFAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasySystem.Model", "EasySystem.Model\EasySystem.Model.csproj", "{4EDBAE1B-3475-4106-B36A-7BCFF28D56F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasySystem.UI", "EasySystem.UI\EasySystem.UI.csproj", "{001113E8-AD8E-481F-8980-7F9F099A71A9}"
+EndProject
+<<<<<<< HEAD
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasySystem.BLL", "EasySystem.BLL\EasySystem.BLL.csproj", "{4E569CAA-F6BA-4BDF-9368-EE35E66050CF}"
+EndProject
+>>>>>>> 使用文本模板根据数据库表自动生产对应类
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
+		{4E569CAA-F6BA-4BDF-9368-EE35E66050CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E569CAA-F6BA-4BDF-9368-EE35E66050CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E569CAA-F6BA-4BDF-9368-EE35E66050CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E569CAA-F6BA-4BDF-9368-EE35E66050CF}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+>>>>>>> 使用文本模板根据数据库表自动生产对应类
+		{E3A92804-5ECB-4CDC-AAB6-69EA0158D9F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3A92804-5ECB-4CDC-AAB6-69EA0158D9F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3A92804-5ECB-4CDC-AAB6-69EA0158D9F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3A92804-5ECB-4CDC-AAB6-69EA0158D9F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EDA3211-785A-408A-A645-86E7A4B8D8B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EDA3211-785A-408A-A645-86E7A4B8D8B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EDA3211-785A-408A-A645-86E7A4B8D8B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EDA3211-785A-408A-A645-86E7A4B8D8B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBB7A356-FB67-4513-9B62-5A518BEC9E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB7A356-FB67-4513-9B62-5A518BEC9E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB7A356-FB67-4513-9B62-5A518BEC9E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB7A356-FB67-4513-9B62-5A518BEC9E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7509D2B-28D4-402F-9897-9A7FA6611049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7509D2B-28D4-402F-9897-9A7FA6611049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7509D2B-28D4-402F-9897-9A7FA6611049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7509D2B-28D4-402F-9897-9A7FA6611049}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A2A7612-C4D1-454B-A579-6E1F7FFCDFAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A2A7612-C4D1-454B-A579-6E1F7FFCDFAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A2A7612-C4D1-454B-A579-6E1F7FFCDFAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A2A7612-C4D1-454B-A579-6E1F7FFCDFAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EDBAE1B-3475-4106-B36A-7BCFF28D56F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EDBAE1B-3475-4106-B36A-7BCFF28D56F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EDBAE1B-3475-4106-B36A-7BCFF28D56F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EDBAE1B-3475-4106-B36A-7BCFF28D56F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{001113E8-AD8E-481F-8980-7F9F099A71A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{001113E8-AD8E-481F-8980-7F9F099A71A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{001113E8-AD8E-481F-8980-7F9F099A71A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{001113E8-AD8E-481F-8980-7F9F099A71A9}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
+=======
+		{4E569CAA-F6BA-4BDF-9368-EE35E66050CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E569CAA-F6BA-4BDF-9368-EE35E66050CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E569CAA-F6BA-4BDF-9368-EE35E66050CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E569CAA-F6BA-4BDF-9368-EE35E66050CF}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 使用文本模板根据数据库表自动生产对应类
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+<<<<<<< HEAD
+		{4E569CAA-F6BA-4BDF-9368-EE35E66050CF} = {D8AE34C2-5EB0-48AB-9877-C928005CAD01}
+=======
+>>>>>>> 使用文本模板根据数据库表自动生产对应类
+		{E3A92804-5ECB-4CDC-AAB6-69EA0158D9F0} = {D8AE34C2-5EB0-48AB-9877-C928005CAD01}
+		{5EDA3211-785A-408A-A645-86E7A4B8D8B2} = {D8AE34C2-5EB0-48AB-9877-C928005CAD01}
+		{FBB7A356-FB67-4513-9B62-5A518BEC9E1F} = {0211DD1D-675B-47AC-B70B-925D1F6E1036}
+		{F7509D2B-28D4-402F-9897-9A7FA6611049} = {0211DD1D-675B-47AC-B70B-925D1F6E1036}
+		{8A2A7612-C4D1-454B-A579-6E1F7FFCDFAF} = {0211DD1D-675B-47AC-B70B-925D1F6E1036}
+		{4EDBAE1B-3475-4106-B36A-7BCFF28D56F6} = {88732C41-4DDA-4EA0-BC27-D2A57EC26CCC}
+		{001113E8-AD8E-481F-8980-7F9F099A71A9} = {A0B2FF52-26FD-4602-B60C-557EFDF32465}
+<<<<<<< HEAD
+=======
+		{4E569CAA-F6BA-4BDF-9368-EE35E66050CF} = {D8AE34C2-5EB0-48AB-9877-C928005CAD01}
+>>>>>>> 使用文本模板根据数据库表自动生产对应类
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {209DE389-3CBE-42D0-8815-BE71A24A9CA1}
+	EndGlobalSection
+EndGlobal
