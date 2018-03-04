@@ -1,0 +1,11 @@
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.IBLL\bin\Debug\EasySystem.IBLL.dll
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.IBLL\bin\Debug\EasySystem.IBLL.pdb
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.IBLL\obj\Debug\EasySystem.IBLL.csprojResolveAssemblyReference.cache
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.IBLL\obj\Debug\EasySystem.IBLL.dll
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.IBLL\obj\Debug\EasySystem.IBLL.pdb
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.IBLL\bin\Debug\EasySystem.Model.dll
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.IBLL\bin\Debug\EntityFramework.dll
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.IBLL\bin\Debug\EasySystem.Model.pdb
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.IBLL\bin\Debug\EasySystem.Model.dll.config
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.IBLL\bin\Debug\EntityFramework.xml
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.IBLL\bin\Debug\zh-Hans\EntityFramework.resources.dll

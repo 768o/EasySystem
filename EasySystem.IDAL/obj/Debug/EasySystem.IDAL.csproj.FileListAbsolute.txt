@@ -1,0 +1,11 @@
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.IDAL\bin\Debug\EasySystem.IDAL.dll
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.IDAL\bin\Debug\EasySystem.IDAL.pdb
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.IDAL\obj\Debug\EasySystem.IDAL.dll
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.IDAL\obj\Debug\EasySystem.IDAL.pdb
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.IDAL\bin\Debug\EasySystem.Model.dll
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.IDAL\bin\Debug\EntityFramework.dll
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.IDAL\bin\Debug\EasySystem.Model.pdb
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.IDAL\bin\Debug\EasySystem.Model.dll.config
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.IDAL\bin\Debug\EntityFramework.xml
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.IDAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.IDAL\obj\Debug\EasySystem.IDAL.csprojResolveAssemblyReference.cache

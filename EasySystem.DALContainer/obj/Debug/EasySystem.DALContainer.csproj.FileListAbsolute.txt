@@ -1,0 +1,17 @@
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DALContainer\obj\Debug\EasySystem.DALContainer.csprojResolveAssemblyReference.cache
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DALContainer\bin\Debug\EasySystem.DALContainer.dll
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DALContainer\bin\Debug\EasySystem.DALContainer.pdb
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DALContainer\bin\Debug\Autofac.dll
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DALContainer\bin\Debug\EasySystem.DAL.dll
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DALContainer\bin\Debug\EasySystem.IDAL.dll
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DALContainer\bin\Debug\EasySystem.Model.dll
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DALContainer\bin\Debug\EntityFramework.dll
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DALContainer\bin\Debug\EasySystem.DAL.pdb
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DALContainer\bin\Debug\EasySystem.DAL.dll.config
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DALContainer\bin\Debug\EasySystem.IDAL.pdb
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DALContainer\bin\Debug\EasySystem.Model.pdb
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DALContainer\bin\Debug\EasySystem.Model.dll.config
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DALContainer\bin\Debug\Autofac.xml
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DALContainer\bin\Debug\EntityFramework.xml
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DALContainer\obj\Debug\EasySystem.DALContainer.dll
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DALContainer\obj\Debug\EasySystem.DALContainer.pdb

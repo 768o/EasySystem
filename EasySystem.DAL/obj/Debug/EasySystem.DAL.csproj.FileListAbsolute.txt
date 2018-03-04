@@ -1,0 +1,15 @@
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DAL\obj\Debug\EasySystem.DAL.csprojResolveAssemblyReference.cache
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DAL\bin\Debug\EasySystem.DAL.dll.config
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DAL\bin\Debug\EasySystem.DAL.dll
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DAL\bin\Debug\EasySystem.DAL.pdb
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DAL\bin\Debug\EasySystem.Model.dll
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DAL\bin\Debug\EntityFramework.dll
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DAL\bin\Debug\EasySystem.Model.pdb
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DAL\bin\Debug\EasySystem.Model.dll.config
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DAL\bin\Debug\EntityFramework.xml
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DAL\obj\Debug\EasySystem.DAL.dll
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DAL\obj\Debug\EasySystem.DAL.pdb
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DAL\bin\Debug\EasySystem.IDAL.dll
+c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.DAL\bin\Debug\EasySystem.IDAL.pdb

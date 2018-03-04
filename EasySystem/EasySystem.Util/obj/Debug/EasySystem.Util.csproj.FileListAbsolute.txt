@@ -1,5 +1,0 @@
-E:\Asp.Net-MVC-EF-EasySystem-master\EasySystem\EasySystem.Util\bin\Debug\EasySystem.Util.exe.config
-E:\Asp.Net-MVC-EF-EasySystem-master\EasySystem\EasySystem.Util\bin\Debug\EasySystem.Util.exe
-E:\Asp.Net-MVC-EF-EasySystem-master\EasySystem\EasySystem.Util\bin\Debug\EasySystem.Util.pdb
-E:\Asp.Net-MVC-EF-EasySystem-master\EasySystem\EasySystem.Util\obj\Debug\EasySystem.Util.exe
-E:\Asp.Net-MVC-EF-EasySystem-master\EasySystem\EasySystem.Util\obj\Debug\EasySystem.Util.pdb
