@@ -10,3 +10,14 @@ c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.Model\o
 c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.Model\obj\Debug\EasySystem.Model.pdb
 c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.Model\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
 c:\users\lin\documents\visual studio 2017\Projects\EasySystem\EasySystem.Model\obj\Debug\EasySystem.Model.csprojResolveAssemblyReference.cache
+E:\EasySystem\EasySystem.Model\bin\Debug\EasySystem.Model.dll.config
+E:\EasySystem\EasySystem.Model\bin\Debug\EasySystem.Model.dll
+E:\EasySystem\EasySystem.Model\bin\Debug\EasySystem.Model.pdb
+E:\EasySystem\EasySystem.Model\bin\Debug\EntityFramework.dll
+E:\EasySystem\EasySystem.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\EasySystem\EasySystem.Model\bin\Debug\EntityFramework.xml
+E:\EasySystem\EasySystem.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\EasySystem\EasySystem.Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\EasySystem\EasySystem.Model\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\EasySystem\EasySystem.Model\obj\Debug\EasySystem.Model.dll
+E:\EasySystem\EasySystem.Model\obj\Debug\EasySystem.Model.pdb
